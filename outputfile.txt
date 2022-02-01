@@ -1,0 +1,31 @@
+
+PS C:\Users\253604\Desktop\Assignment> & C:/Users/253604/AppData/Local/Programs/Python/Python38/python.exe c:/Users/253604/Desktop/Assignment/assignmentpart1.py
+<class 'float'>
+<class 'int'>
+<class 'str'>
+<class 'complex'>
+<class 'int'>
+(11+6j)
+Before swapping:
+Value of x :  (5+6j)  and y :  6
+After swapping:
+Value of x :  6  and y :  (5+6j)
+After Swapping: x = 5  y = 10
+Before swapping:
+Value of x :  20  and y :  30
+After swapping:
+Value of x :  30  and y :  20
+Hello world
+3.5
+Hello Guido
+Enter first number:7
+Enter second number:5
+12
+42
+Dtatype :  <class 'int'>
+Datatype : <class 'str'>
+Datatype : <class 'float'>
+Datatype : <class 'complex'>
+the original string is : myname_is_deepika
+the string after changing case : MynameIsDeepika
+PS C:\Users\253604\Desktop\Assignment>
